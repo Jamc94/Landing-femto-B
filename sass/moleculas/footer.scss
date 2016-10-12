@@ -1,0 +1,52 @@
+.footer-pg{
+  .footer-contenedor{
+    padding: 0;
+    .footer-menu{
+      ul{
+        margin-bottom: 0;
+        li{
+          background: #2c3e50;
+          border-radius: 0;
+          border-right: 0;
+          border-left: 0;
+          border-bottom: 1px solid darken(#fff,20);
+          padding: 0;
+          a{
+            color: darken(#fff,20);
+            display: block;
+            text-decoration: none;
+            padding: 10px;
+            &:hover{
+              transition: all .7s;
+              color: #e67e22;
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+    }
+    .copy_r{
+      background: darken(#2c3e50,7);
+      color: darken(#fff,20);
+      padding: 15px 0;
+      p{
+        margin-bottom: 0;
+      }
+    }
+    .redes_sociales{
+      background: darken(#2c3e50,10);
+      color: darken(#fff,20);
+      margin: 0;
+      padding: 30px 0;
+      i{
+        font-size: 35px;
+        margin: 0 5px;
+        cursor: pointer;
+        &:hover{
+          transition: all .8s;
+          color: #e67e22;
+        }
+      }
+    }
+  }
+}

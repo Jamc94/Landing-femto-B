@@ -1,0 +1,68 @@
+.header-pg nav {
+  margin-bottom: 0;
+  border: 0; }
+  .header-pg nav div {
+    background: #2c3e50; }
+    .header-pg nav div .titulo {
+      color: #f39c12; }
+  .header-pg nav div ul {
+    margin-top: 0; }
+    .header-pg nav div ul li {
+      border-bottom: 1px solid #cccccc; }
+      .header-pg nav div ul li a:hover {
+        color: #fff; }
+
+.main-pg .aside {
+  background: #2c3e50;
+  background: linear-gradient(#2c3e50, black); }
+  .main-pg .aside .div-slogan h2 {
+    color: #cccccc; }
+  .main-pg .aside .aside {
+    padding: 0 0px; }
+    .main-pg .aside .aside ul li {
+      background: #f2f2f2; }
+.main-pg .contenido-pg .article-desarrollando {
+  border-bottom: 1px solid #cccccc; }
+.main-pg .contenido-pg .article-compartiendo {
+  border-bottom: 1px solid #cccccc; }
+
+.footer-pg .footer-contenedor {
+  padding: 0; }
+  .footer-pg .footer-contenedor .footer-menu ul {
+    margin-bottom: 0; }
+    .footer-pg .footer-contenedor .footer-menu ul li {
+      background: #2c3e50;
+      border-radius: 0;
+      border-right: 0;
+      border-left: 0;
+      border-bottom: 1px solid #cccccc;
+      padding: 0; }
+      .footer-pg .footer-contenedor .footer-menu ul li a {
+        color: #cccccc;
+        display: block;
+        text-decoration: none;
+        padding: 10px; }
+        .footer-pg .footer-contenedor .footer-menu ul li a:hover {
+          transition: all .7s;
+          color: #e67e22;
+          text-decoration: underline; }
+  .footer-pg .footer-contenedor .copy_r {
+    background: #1f2c39;
+    color: #cccccc;
+    padding: 15px 0; }
+    .footer-pg .footer-contenedor .copy_r p {
+      margin-bottom: 0; }
+  .footer-pg .footer-contenedor .redes_sociales {
+    background: #1a252f;
+    color: #cccccc;
+    margin: 0;
+    padding: 30px 0; }
+    .footer-pg .footer-contenedor .redes_sociales i {
+      font-size: 35px;
+      margin: 0 5px;
+      cursor: pointer; }
+      .footer-pg .footer-contenedor .redes_sociales i:hover {
+        transition: all .8s;
+        color: #e67e22; }
+
+/*# sourceMappingURL=main.css.map */
